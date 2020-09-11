@@ -11,8 +11,8 @@ const World = Matter.World
 function preload()
 {
   //load images here
-   dogIm = loadImage("images/Dog.png");
-   doghappy = loadImage("images/happydog.png");
+   dogIm = loadImage("Dog.png");
+   doghappy = loadImage("happydog.png");
 
    
 }
